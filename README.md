@@ -106,9 +106,7 @@ uvicorn main-tf-serving:app --reload --host 0.0.0.0
 ```bash
 cd frontend
 ```
-
-2. Copy the `.env.example` as `.env` and update `REACT_APP_API_URL` to API URL if needed.
-3. Run the frontend
+2. Run the frontend
 
 ```bash
 npm run start
