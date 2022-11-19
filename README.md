@@ -119,10 +119,7 @@ npm run start
 ```bash
 cd mobile-app
 ```
-
-2. Copy the `.env.example` as `.env` and update `URL` to API URL if needed.
-
-3. Run the app (android/iOS)
+2. Run the app (android/iOS)
 
 ```bash
 npm run android
@@ -134,7 +131,7 @@ or
 npm run ios
 ```
 
-4. Creating public ([signed APK](https://reactnative.dev/docs/signed-apk-android))
+3. Creating public ([signed APK](https://reactnative.dev/docs/signed-apk-android))
 
 
 ## Creating the TF Lite Model
