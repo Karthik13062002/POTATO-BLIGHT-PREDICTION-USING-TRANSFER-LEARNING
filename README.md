@@ -25,10 +25,6 @@ npm install --from-lock-json
 npm audit fix
 ```
 
-4. Copy `.env.example` as `.env`.
-
-5. Change API url in `.env`.
-
 ## Setup for React-Native app
 
 1. Go to the [React Native environment setup](https://reactnative.dev/docs/environment-setup), then select `React Native CLI Quickstart` tab.  
@@ -44,10 +40,6 @@ yarn install
 ```bash
 cd ios && pod install && cd ../
 ```
-
-3. Copy `.env.example` as `.env`.
-
-4. Change API url in `.env`.
 
 ## Training the Model
 
